@@ -95,8 +95,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sci-baker" />
 
 ---
-
-## 🐍 Contribution Snake
-![GitHub Snake light](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg#gh-light-mode-only)
-
-![GitHub Snake animated GIF](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.gif)
