@@ -97,4 +97,6 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake](https://github.com/sci-baker/sci-baker/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake light](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.svg#gh-light-mode-only)
+
+![GitHub Snake animated GIF](https://raw.githubusercontent.com/MhmdTalat/MhmdTalat/output/snake.gif)
