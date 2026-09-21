@@ -52,7 +52,6 @@
 ---
 
 ## 📌 Featured Work
-> عدّل الروابط إذا أسماء الريبو عندك مختلفة
 
 | Project | Stack | Highlights |
 |---|---|---|
